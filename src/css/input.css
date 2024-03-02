@@ -7,3 +7,7 @@
         font-family: "Poppins", sans-serif;
     }
 }
+
+.link-active {
+    @apply text-yellow-300 md:bg-inherit bg-slate-800;
+}
